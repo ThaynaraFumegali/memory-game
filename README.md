@@ -1,11 +1,3 @@
-# Getting Started with Create React App
-
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
-
-## Available Scripts
-
-In the project directory, you can run:
-
 ### `npm start`
 
 Runs the app in the development mode.\
@@ -68,3 +60,14 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/d
 ### `npm run build` fails to minify
 
 This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+
+
+Jogo desenvolvido por Thaynara Fumegali
+
+## Referências
+Tutoriais utilizados: 
+
+Desenvolvimento do jogo: https://www.youtube.com/watch?v=qhOZoJPMg6w
+Repositório do tutorial: https://github.com/0shuvo0/react-memory-game
+
+Troca de telas:https://www.youtube.com/watch?v=-I2hggc2yFA
