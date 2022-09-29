@@ -1,6 +1,6 @@
-### Bem vindo! 
+# Bem vindo! 
 
-# Jogo desenvolvido por Thaynara Fumegali
+## Jogo desenvolvido por Thaynara Fumegali
 
 ## Referências
 Tutoriais utilizados: 
